@@ -1,0 +1,11 @@
+CREATE TABLE harware (
+id INTIGER PRIMARY KEY,
+name TEXT NOT NULL,
+price REAL NOT NULL
+);
+
+CREATE TABLE software (
+id INTIGER PRIMARY KEY,
+name TEXT NOT NULL,
+price REAL NOT NULL
+);
